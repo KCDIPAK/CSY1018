@@ -1,0 +1,16 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	background-color: green;
+	text-align: center;
+	font-size: 40px;
+}
+.container{
+	background-color: red;
+	padding:1px;
+}
+.footer{
+	background-color: green;
+}
